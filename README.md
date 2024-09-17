@@ -1,5 +1,3 @@
-### FR:
-
 ## **Bienvenue sur mon Portfolio de Data Analyst !**
 
 Suite à ma formation Data Analyst du Wagon, je suis à la recherche d'un poste de Data Analyst, à Marseille ou sa région.
@@ -19,22 +17,8 @@ Merci de votre temps et j'attends avec impatience de vos nouvelles.
 
 Erwin
 
-### EN:
+### Contacts:
 
-## **Welcome to my Data Analyst Portfolio!**
+[LinkedIn](www.linkedin.com/in/erwin-kuehn)
 
-Following my Data Analyst training at Le Wagon, I'm looking for a Data Analyst position in Marseille or the surrounding area.
-
-I have initial experience in using a variety of tools and technologies to collect, organize and analyze data to help make strategic decisions. I have developed solid skills in Python, SQL, Excel, Power BI and Looker Studio, and have expertise in building dashboards, analyzing data and visualizing insights to facilitate decision-making.
-
-In this portfolio, you will find a selection of projects that showcase my data analysis skills. I have included links to dashboards and reports created with Power BI, Excel, and Looker Studio, which demonstrate my ability to present data in a clear and visually impactful way.
-
-I have also included my work using programming languages such as Python and SQL, highlighting my ability to extract insights from large and complex datasets, as well as combining multiple data sources to create a comprehensive view.
-
-In addition to my technical skills, I place a high value on critical thinking and problem-solving. I approach data analysis strategically, aiming to identify key opportunities and challenges within the data.
-
-I am confident that my data analysis skills make me an ideal candidate for any Data Analyst position. I hope you find my portfolio informative and engaging, and I welcome any opportunity to further discuss my qualifications with you.
-
-Thank you for your time, and I look forward to hearing from you soon.
-
-Erwin
+[E-mail](erwkuehn@gmail.com)
